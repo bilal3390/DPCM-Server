@@ -1,0 +1,37 @@
+{
+  "name": "dental-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ../server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apis": "^0.1.2",
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "google": "^2.1.0",
+    "googleapis": "^118.0.0",
+    "json": "^11.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "middleware": "^1.0.0",
+    "moment-timezone": "^0.5.43",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1",
+    "multer": "^1.4.5-lts.1",
+    "node-mailer": "^0.1.1",
+    "nodemailer": "^6.9.2",
+    "nodemon": "^2.0.22",
+    "oauth2": "^0.0.1",
+    "salt": "^0.5.5",
+    "shortid": "^2.2.16",
+    "token": "^0.1.0",
+    "web": "^0.0.2"
+  },
+  "keywords": [],
+  "description": ""
+}
